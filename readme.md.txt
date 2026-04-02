@@ -73,7 +73,7 @@ pip install -r requirements.txt
 ```
 
 ### 4. Download the model
-Place `mobilenetv2.keras` in the `models/` folder.
+Download mobilenetv2.keras from [Google Drive] (folderhttps://drive.google.com/file/d/1qt2DYDCPlPeK5owv-mXX30wICy7oBNzX/view?usp=sharing) and place it in the `models/` folder.
 
 ### 5. Run backend
 ```bash
